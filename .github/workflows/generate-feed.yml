@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-feed:
     runs-on: ubuntu-latest
@@ -12,13 +15,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
-      - name: Debug - show working directory contents
-        run: |
-          echo "Current directory:"
-          pwd
-          echo "Contents:"
-          ls -R
 
       - name: Generate local inventory TSV
         run: python3 scripts/generate_feed.py
