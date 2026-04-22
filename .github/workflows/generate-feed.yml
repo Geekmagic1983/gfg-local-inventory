@@ -2,8 +2,8 @@ name: Generate Local Inventory Feed
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # Runs every 6 hours
-  workflow_dispatch:          # Allows manual trigger from GitHub UI
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build-feed:
@@ -12,6 +12,13 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
+      - name: Debug - show working directory contents
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Contents:"
+          ls -R
 
       - name: Generate local inventory TSV
         run: python3 scripts/generate_feed.py
