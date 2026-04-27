@@ -441,8 +441,8 @@ GFG-LE1	20430847	1	in_stock
 GFG-LE1	20185488	1	in_stock
 GFG-LE1	20459012	1	in_stock
 GFG-LE1	21130933	1	in_stock
-GFG-LE1	21130940	1	in_stock
-GFG-LE1	21130963	1	in_stock
+GFG-LE1	21130940	0	out_of_stock
+GFG-LE1	21130963	0	out_of_stock
 GFG-LE1	21130952	1	in_stock
 GFG-LE1	21130954	1	in_stock
 GFG-LE1	21130960	1	in_stock
@@ -2102,7 +2102,7 @@ GFG-LE1	5008581	1	in_stock
 GFG-LE1	5008590	1	in_stock
 GFG-LE1	7214305	1	in_stock
 GFG-LE1	2669559	1	in_stock
-GFG-LE1	2669560	0	out_of_stock
+GFG-LE1	2669560	1	in_stock
 GFG-LE1	2669561	0	out_of_stock
 GFG-LE1	2669587	0	out_of_stock
 GFG-LE1	13831830	1	in_stock
@@ -3466,7 +3466,7 @@ GFG-LE1	16143455	0	out_of_stock
 GFG-LE1	17545882	0	out_of_stock
 GFG-LE1	15227321	0	out_of_stock
 GFG-LE1	17029338	0	out_of_stock
-GFG-LE1	18311193	1	in_stock
+GFG-LE1	18311193	0	out_of_stock
 GFG-LE1	18597088	0	out_of_stock
 GFG-LE1	18704174	0	out_of_stock
 GFG-LE1	19108789	0	out_of_stock
@@ -3774,7 +3774,7 @@ GFG-LE1	4980768	0	out_of_stock
 GFG-LE1	6575906	0	out_of_stock
 GFG-LE1	9766698	0	out_of_stock
 GFG-LE1	10537215	1	in_stock
-GFG-LE1	11226254	0	out_of_stock
+GFG-LE1	11226254	1	in_stock
 GFG-LE1	12737309	1	in_stock
 GFG-LE1	13427283	1	in_stock
 GFG-LE1	14678294	1	in_stock
@@ -3830,7 +3830,7 @@ GFG-LE1	19914257	1	in_stock
 GFG-LE1	20396718	1	in_stock
 GFG-LE1	16327010	1	in_stock
 GFG-LE1	16327015	0	out_of_stock
-GFG-LE1	20124530	0	out_of_stock
+GFG-LE1	20124530	1	in_stock
 GFG-LE1	19671073	1	in_stock
 GFG-LE1	19914501	1	in_stock
 GFG-LE1	21014913	1	in_stock
@@ -6384,7 +6384,7 @@ GFG-LE1	2645036	0	out_of_stock
 GFG-LE1	3019321	0	out_of_stock
 GFG-LE1	3397663	0	out_of_stock
 GFG-LE1	3416532	1	in_stock
-GFG-LE1	4070292	0	out_of_stock
+GFG-LE1	4070292	1	in_stock
 GFG-LE1	3944026	0	out_of_stock
 GFG-LE1	4070293	0	out_of_stock
 GFG-LE1	3637457	0	out_of_stock
@@ -6431,7 +6431,7 @@ GFG-LE1	6406039	1	in_stock
 GFG-LE1	7480609	1	in_stock
 GFG-LE1	7176947	0	out_of_stock
 GFG-LE1	7296236	0	out_of_stock
-GFG-LE1	7337901	0	out_of_stock
+GFG-LE1	7337901	1	in_stock
 GFG-LE1	7759921	0	out_of_stock
 GFG-LE1	7337892	0	out_of_stock
 GFG-LE1	8274479	1	in_stock
@@ -6695,7 +6695,7 @@ GFG-LE1	4568278	0	out_of_stock
 GFG-LE1	6690977	1	in_stock
 GFG-LE1	6462538	0	out_of_stock
 GFG-LE1	9506159	0	out_of_stock
-GFG-LE1	21116832	0	out_of_stock
+GFG-LE1	21116832	1	in_stock
 GFG-LE1	9506156	1	in_stock
 GFG-LE1	13568491	0	out_of_stock
 GFG-LE1	11263035	0	out_of_stock
@@ -7058,7 +7058,7 @@ GFG-LE1	19939578	0	out_of_stock
 GFG-LE1	21165299	1	in_stock
 GFG-LE1	21116829	0	out_of_stock
 GFG-LE1	21165297	0	out_of_stock
-GFG-LE1	21116830	0	out_of_stock
+GFG-LE1	21116830	1	in_stock
 GFG-LE1	2644039	0	out_of_stock
 GFG-LE1	2644037	0	out_of_stock
 GFG-LE1	2644028	0	out_of_stock
@@ -7310,7 +7310,7 @@ GFG-LE1	2657334	0	out_of_stock
 GFG-LE1	2954610	0	out_of_stock
 GFG-LE1	15818041	0	out_of_stock
 GFG-LE1	15818046	1	in_stock
-GFG-LE1	15818052	0	out_of_stock
+GFG-LE1	15818052	1	in_stock
 GFG-LE1	15818043	1	in_stock
 GFG-LE1	15818049	1	in_stock
 GFG-LE1	15818056	1	in_stock
@@ -7342,7 +7342,7 @@ GFG-LE1	21105274	1	in_stock
 GFG-LE1	20290147	1	in_stock
 GFG-LE1	21105262	1	in_stock
 GFG-LE1	2775816	0	out_of_stock
-GFG-LE1	2677226	1	in_stock
+GFG-LE1	2677226	0	out_of_stock
 GFG-LE1	2657305	1	in_stock
 GFG-LE1	2669623	1	in_stock
 GFG-LE1	2669624	1	in_stock
@@ -7947,7 +7947,7 @@ GFG-LE1	16572738	0	out_of_stock
 GFG-LE1	16572735	0	out_of_stock
 GFG-LE1	16572725	1	in_stock
 GFG-LE1	16572729	1	in_stock
-GFG-LE1	16327022	0	out_of_stock
+GFG-LE1	16327022	1	in_stock
 GFG-LE1	16327017	0	out_of_stock
 GFG-LE1	16327024	0	out_of_stock
 GFG-LE1	20124537	1	in_stock
@@ -8235,7 +8235,7 @@ GFG-LE1	12797725	1	in_stock
 GFG-LE1	2673320	0	out_of_stock
 GFG-LE1	2776177	1	in_stock
 GFG-LE1	2776179	1	in_stock
-GFG-LE1	2776180	0	out_of_stock
+GFG-LE1	2776180	1	in_stock
 GFG-LE1	2673293	1	in_stock
 GFG-LE1	2673297	1	in_stock
 GFG-LE1	4070302	0	out_of_stock
@@ -8458,7 +8458,7 @@ GFG-LE1	17047488	0	out_of_stock
 GFG-LE1	21165163	0	out_of_stock
 GFG-LE1	11757255	0	out_of_stock
 GFG-LE1	11975516	1	in_stock
-GFG-LE1	18789510	1	in_stock
+GFG-LE1	18789510	0	out_of_stock
 GFG-LE1	21035214	0	out_of_stock
 GFG-LE1	10612524	0	out_of_stock
 GFG-LE1	13588524	0	out_of_stock
@@ -9543,7 +9543,7 @@ GFG-LE1	13365506	0	out_of_stock
 GFG-LE1	18792343	0	out_of_stock
 GFG-LE1	18792323_79882298	0	out_of_stock
 GFG-LE1	18792323_79882299	0	out_of_stock
-GFG-LE1	18792323_79882300	1	in_stock
+GFG-LE1	18792323_79882300	0	out_of_stock
 GFG-LE1	18792323_79882301	0	out_of_stock
 GFG-LE1	18792323_79882302	1	in_stock
 GFG-LE1	18792323_79882303	0	out_of_stock
@@ -9904,7 +9904,7 @@ GFG-LE1	3025195	0	out_of_stock
 GFG-LE1	17926008	0	out_of_stock
 GFG-LE1	17926011	0	out_of_stock
 GFG-LE1	17926012	0	out_of_stock
-GFG-LE1	17926013	1	in_stock
+GFG-LE1	17926013	0	out_of_stock
 GFG-LE1	9494445	0	out_of_stock
 GFG-LE1	3025196	0	out_of_stock
 GFG-LE1	15824474	0	out_of_stock
@@ -10807,8 +10807,8 @@ GFG-LE1	16802931	0	out_of_stock
 GFG-LE1	14857617	0	out_of_stock
 GFG-LE1	2663205	0	out_of_stock
 GFG-LE1	21130967	0	out_of_stock
-GFG-LE1	21130950	1	in_stock
-GFG-LE1	21130948	1	in_stock
+GFG-LE1	21130950	0	out_of_stock
+GFG-LE1	21130948	0	out_of_stock
 GFG-LE1	17541122	1	in_stock
 GFG-LE1	17541125	1	in_stock
 GFG-LE1	17541118	1	in_stock
