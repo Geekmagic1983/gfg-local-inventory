@@ -41,15 +41,13 @@ def parse_feed(xml_data):
             continue
 
         availability_raw = item.findtext("g:availability", "", ns).strip().lower()
-        if availability_raw == "in stock":
-            availability = "in_stock"
-            quantity = 1
-        elif availability_raw == "out of stock":
-            availability = "out_of_stock"
-            quantity = 0
-        else:
-            # Preorder or unknown — skip from local feed
+
+        # Only include in_stock products
+        if availability_raw != "in stock":
             continue
+
+        availability = "in_stock"
+        quantity = 1
 
         # Check product type exclusions
         product_types = [pt.text for pt in item.findall("g:product_type", ns) if pt.text]
