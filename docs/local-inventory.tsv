@@ -1,6 +1,5 @@
 store_code	id	quantity	availability
 GFG-LE1	2594875	1	in_stock
-GFG-LE1	2594929	1	in_stock
 GFG-LE1	2594935	1	in_stock
 GFG-LE1	2594944	1	in_stock
 GFG-LE1	2594957	1	in_stock
@@ -3366,7 +3365,6 @@ GFG-LE1	19952132	1	in_stock
 GFG-LE1	19952145	1	in_stock
 GFG-LE1	19971445	1	in_stock
 GFG-LE1	19971450	1	in_stock
-GFG-LE1	19971493	1	in_stock
 GFG-LE1	19971512	1	in_stock
 GFG-LE1	20008688	1	in_stock
 GFG-LE1	20009496	1	in_stock
@@ -3620,7 +3618,6 @@ GFG-LE1	21035218	1	in_stock
 GFG-LE1	21035225	1	in_stock
 GFG-LE1	21035241	1	in_stock
 GFG-LE1	21035263	1	in_stock
-GFG-LE1	21035280	1	in_stock
 GFG-LE1	21035317	1	in_stock
 GFG-LE1	21035318	1	in_stock
 GFG-LE1	21060874	1	in_stock
@@ -3696,6 +3693,7 @@ GFG-LE1	21222761	1	in_stock
 GFG-LE1	21241580	1	in_stock
 GFG-LE1	21244578	1	in_stock
 GFG-LE1	21244579	1	in_stock
+GFG-LE1	21295190	1	in_stock
 GFG-LE1	21299062	1	in_stock
 GFG-LE1	21299162	1	in_stock
 GFG-LE1	21299163	1	in_stock
@@ -3810,7 +3808,6 @@ GFG-LE1	21388066	1	in_stock
 GFG-LE1	21389733	1	in_stock
 GFG-LE1	21389748	1	in_stock
 GFG-LE1	21389752	1	in_stock
-GFG-LE1	21389755	1	in_stock
 GFG-LE1	21398674	1	in_stock
 GFG-LE1	21398675	1	in_stock
 GFG-LE1	21398676	1	in_stock
